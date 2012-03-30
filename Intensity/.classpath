@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="src/lib/Jama-1.0.2.jar"/>
+	<classpathentry kind="lib" path="src/lib/jfreechart-1.0.13.jar"/>
+	<classpathentry kind="lib" path="src/lib/jcommon-1.0.16.jar"/>
+	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
